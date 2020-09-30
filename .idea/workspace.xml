@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="548bf5b7-393a-4937-8ec3-d200759a0aac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iBABLcJPsB2KXn6sKFf0Oej7gT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Problem 2">
+    <configuration name="Problem 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project Euler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Problem 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project Euler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Problem 4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project Euler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Problem 5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project Euler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Problem 6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project Euler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Project Euler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Problem 2" />
+        <item itemvalue="Python.Problem 1" />
+        <item itemvalue="Python.Problem 6" />
+        <item itemvalue="Python.Problem 5" />
+        <item itemvalue="Python.Problem 4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="548bf5b7-393a-4937-8ec3-d200759a0aac" name="Default Changelist" comment="" />
+      <created>1601370474628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601370474628</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2735" y="375" key="Github.ShareDialog" timestamp="1601472464172">
+      <screen x="1792" y="-20" width="1920" height="1057" />
+    </state>
+    <state x="2735" y="375" key="Github.ShareDialog/0.23.1792.1023/1792.-20.1920.1057/-2560.23.2560.1417@1792.-20.1920.1057" timestamp="1601472464172" />
+    <state x="2623" y="176" key="Github.UntrackedFilesDialog" timestamp="1601472485005">
+      <screen x="1792" y="-20" width="1920" height="1057" />
+    </state>
+    <state x="2623" y="176" key="Github.UntrackedFilesDialog/0.23.1792.1023/1792.-20.1920.1057/-2560.23.2560.1417@1792.-20.1920.1057" timestamp="1601472485005" />
+    <state width="1275" height="210" key="GridCell.Tab.0.bottom" timestamp="1601472548483">
+      <screen x="1792" y="-20" width="1920" height="1057" />
+    </state>
+    <state width="1275" height="232" key="GridCell.Tab.0.bottom/0.23.1792.1023/1792.-20.1920.1057/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1601457727835" />
+    <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1792.1023/1792.-20.1920.1057/-2560.23.2560.1417@0.23.1792.1023" timestamp="1601374254391" />
+    <state width="1275" height="210" key="GridCell.Tab.0.bottom/0.23.1792.1023/1792.-20.1920.1057/-2560.23.2560.1417@1792.-20.1920.1057" timestamp="1601472548483" />
+    <state width="1379" height="328" key="GridCell.Tab.0.bottom/0.23.1792.1097/1792.-20.1920.1057/-2560.23.2560.1343@-2560.23.2560.1343" timestamp="1601396606447" />
+    <state width="1275" height="232" key="GridCell.Tab.0.bottom/0.23.1792.1097/1792.-20.1920.1057/-2560.23.2560.1343@1792.-20.1920.1057" timestamp="1601459603980" />
+    <state width="1379" height="328" key="GridCell.Tab.0.bottom/0.23.1792.1097/1792.-20.1920.1057/-2560.23.2560.1417@0.23.1792.1097" timestamp="1601376065702" />
+    <state width="1275" height="359" key="GridCell.Tab.0.bottom/0.23.1792.1097/1792.-20.1920.1057/-2560.23.2560.1417@1792.-20.1920.1057" timestamp="1601471362037" />
+    <state width="1379" height="266" key="GridCell.Tab.0.bottom/0.23.1792.1097/1792.-20.1920.983/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1601383690056" />
+    <state width="1275" height="210" key="GridCell.Tab.0.bottom/0.23.1792.1097/1792.-20.1920.983/-2560.23.2560.1417@1792.-20.1920.983" timestamp="1601461259093" />
+    <state width="1275" height="210" key="GridCell.Tab.0.center" timestamp="1601472548483">
+      <screen x="1792" y="-20" width="1920" height="1057" />
+    </state>
+    <state width="1275" height="232" key="GridCell.Tab.0.center/0.23.1792.1023/1792.-20.1920.1057/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1601457727834" />
+    <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1792.1023/1792.-20.1920.1057/-2560.23.2560.1417@0.23.1792.1023" timestamp="1601374254390" />
+    <state width="1275" height="210" key="GridCell.Tab.0.center/0.23.1792.1023/1792.-20.1920.1057/-2560.23.2560.1417@1792.-20.1920.1057" timestamp="1601472548483" />
+    <state width="1379" height="328" key="GridCell.Tab.0.center/0.23.1792.1097/1792.-20.1920.1057/-2560.23.2560.1343@-2560.23.2560.1343" timestamp="1601396606446" />
+    <state width="1275" height="232" key="GridCell.Tab.0.center/0.23.1792.1097/1792.-20.1920.1057/-2560.23.2560.1343@1792.-20.1920.1057" timestamp="1601459603980" />
+    <state width="1379" height="328" key="GridCell.Tab.0.center/0.23.1792.1097/1792.-20.1920.1057/-2560.23.2560.1417@0.23.1792.1097" timestamp="1601376065702" />
+    <state width="1275" height="359" key="GridCell.Tab.0.center/0.23.1792.1097/1792.-20.1920.1057/-2560.23.2560.1417@1792.-20.1920.1057" timestamp="1601471362037" />
+    <state width="1379" height="266" key="GridCell.Tab.0.center/0.23.1792.1097/1792.-20.1920.983/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1601383690055" />
+    <state width="1275" height="210" key="GridCell.Tab.0.center/0.23.1792.1097/1792.-20.1920.983/-2560.23.2560.1417@1792.-20.1920.983" timestamp="1601461259092" />
+    <state width="1275" height="210" key="GridCell.Tab.0.left" timestamp="1601472548482">
+      <screen x="1792" y="-20" width="1920" height="1057" />
+    </state>
+    <state width="1275" height="232" key="GridCell.Tab.0.left/0.23.1792.1023/1792.-20.1920.1057/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1601457727834" />
+    <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1792.1023/1792.-20.1920.1057/-2560.23.2560.1417@0.23.1792.1023" timestamp="1601374254389" />
+    <state width="1275" height="210" key="GridCell.Tab.0.left/0.23.1792.1023/1792.-20.1920.1057/-2560.23.2560.1417@1792.-20.1920.1057" timestamp="1601472548482" />
+    <state width="1379" height="328" key="GridCell.Tab.0.left/0.23.1792.1097/1792.-20.1920.1057/-2560.23.2560.1343@-2560.23.2560.1343" timestamp="1601396606446" />
+    <state width="1275" height="232" key="GridCell.Tab.0.left/0.23.1792.1097/1792.-20.1920.1057/-2560.23.2560.1343@1792.-20.1920.1057" timestamp="1601459603979" />
+    <state width="1379" height="328" key="GridCell.Tab.0.left/0.23.1792.1097/1792.-20.1920.1057/-2560.23.2560.1417@0.23.1792.1097" timestamp="1601376065701" />
+    <state width="1275" height="359" key="GridCell.Tab.0.left/0.23.1792.1097/1792.-20.1920.1057/-2560.23.2560.1417@1792.-20.1920.1057" timestamp="1601471362036" />
+    <state width="1379" height="266" key="GridCell.Tab.0.left/0.23.1792.1097/1792.-20.1920.983/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1601383690055" />
+    <state width="1275" height="210" key="GridCell.Tab.0.left/0.23.1792.1097/1792.-20.1920.983/-2560.23.2560.1417@1792.-20.1920.983" timestamp="1601461259092" />
+    <state width="1275" height="210" key="GridCell.Tab.0.right" timestamp="1601472548483">
+      <screen x="1792" y="-20" width="1920" height="1057" />
+    </state>
+    <state width="1275" height="232" key="GridCell.Tab.0.right/0.23.1792.1023/1792.-20.1920.1057/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1601457727835" />
+    <state width="1379" height="266" key="GridCell.Tab.0.right/0.23.1792.1023/1792.-20.1920.1057/-2560.23.2560.1417@0.23.1792.1023" timestamp="1601374254390" />
+    <state width="1275" height="210" key="GridCell.Tab.0.right/0.23.1792.1023/1792.-20.1920.1057/-2560.23.2560.1417@1792.-20.1920.1057" timestamp="1601472548483" />
+    <state width="1379" height="328" key="GridCell.Tab.0.right/0.23.1792.1097/1792.-20.1920.1057/-2560.23.2560.1343@-2560.23.2560.1343" timestamp="1601396606446" />
+    <state width="1275" height="232" key="GridCell.Tab.0.right/0.23.1792.1097/1792.-20.1920.1057/-2560.23.2560.1343@1792.-20.1920.1057" timestamp="1601459603980" />
+    <state width="1379" height="328" key="GridCell.Tab.0.right/0.23.1792.1097/1792.-20.1920.1057/-2560.23.2560.1417@0.23.1792.1097" timestamp="1601376065702" />
+    <state width="1275" height="359" key="GridCell.Tab.0.right/0.23.1792.1097/1792.-20.1920.1057/-2560.23.2560.1417@1792.-20.1920.1057" timestamp="1601471362037" />
+    <state width="1379" height="266" key="GridCell.Tab.0.right/0.23.1792.1097/1792.-20.1920.983/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1601383690056" />
+    <state width="1275" height="210" key="GridCell.Tab.0.right/0.23.1792.1097/1792.-20.1920.983/-2560.23.2560.1417@1792.-20.1920.983" timestamp="1601461259093" />
+    <state width="1275" height="359" key="GridCell.Tab.1.bottom" timestamp="1601471362039">
+      <screen x="1792" y="-20" width="1920" height="1057" />
+    </state>
+    <state width="1275" height="359" key="GridCell.Tab.1.bottom/0.23.1792.1023/1792.-20.1920.1057/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1601457051773" />
+    <state width="1379" height="328" key="GridCell.Tab.1.bottom/0.23.1792.1097/1792.-20.1920.1057/-2560.23.2560.1343@-2560.23.2560.1343" timestamp="1601396606448" />
+    <state width="1275" height="359" key="GridCell.Tab.1.bottom/0.23.1792.1097/1792.-20.1920.1057/-2560.23.2560.1417@1792.-20.1920.1057" timestamp="1601471362039" />
+    <state width="1379" height="328" key="GridCell.Tab.1.bottom/0.23.1792.1097/1792.-20.1920.983/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1601382568220" />
+    <state width="1275" height="359" key="GridCell.Tab.1.center" timestamp="1601471362038">
+      <screen x="1792" y="-20" width="1920" height="1057" />
+    </state>
+    <state width="1275" height="359" key="GridCell.Tab.1.center/0.23.1792.1023/1792.-20.1920.1057/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1601457051773" />
+    <state width="1379" height="328" key="GridCell.Tab.1.center/0.23.1792.1097/1792.-20.1920.1057/-2560.23.2560.1343@-2560.23.2560.1343" timestamp="1601396606447" />
+    <state width="1275" height="359" key="GridCell.Tab.1.center/0.23.1792.1097/1792.-20.1920.1057/-2560.23.2560.1417@1792.-20.1920.1057" timestamp="1601471362038" />
+    <state width="1379" height="328" key="GridCell.Tab.1.center/0.23.1792.1097/1792.-20.1920.983/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1601382568220" />
+    <state width="1275" height="359" key="GridCell.Tab.1.left" timestamp="1601471362038">
+      <screen x="1792" y="-20" width="1920" height="1057" />
+    </state>
+    <state width="1275" height="359" key="GridCell.Tab.1.left/0.23.1792.1023/1792.-20.1920.1057/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1601457051772" />
+    <state width="1379" height="328" key="GridCell.Tab.1.left/0.23.1792.1097/1792.-20.1920.1057/-2560.23.2560.1343@-2560.23.2560.1343" timestamp="1601396606447" />
+    <state width="1275" height="359" key="GridCell.Tab.1.left/0.23.1792.1097/1792.-20.1920.1057/-2560.23.2560.1417@1792.-20.1920.1057" timestamp="1601471362038" />
+    <state width="1379" height="328" key="GridCell.Tab.1.left/0.23.1792.1097/1792.-20.1920.983/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1601382568219" />
+    <state width="1275" height="359" key="GridCell.Tab.1.right" timestamp="1601471362038">
+      <screen x="1792" y="-20" width="1920" height="1057" />
+    </state>
+    <state width="1275" height="359" key="GridCell.Tab.1.right/0.23.1792.1023/1792.-20.1920.1057/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1601457051773" />
+    <state width="1379" height="328" key="GridCell.Tab.1.right/0.23.1792.1097/1792.-20.1920.1057/-2560.23.2560.1343@-2560.23.2560.1343" timestamp="1601396606448" />
+    <state width="1275" height="359" key="GridCell.Tab.1.right/0.23.1792.1097/1792.-20.1920.1057/-2560.23.2560.1417@1792.-20.1920.1057" timestamp="1601471362038" />
+    <state width="1379" height="328" key="GridCell.Tab.1.right/0.23.1792.1097/1792.-20.1920.983/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1601382568220" />
+    <state x="2374" y="110" key="SettingsEditor" timestamp="1601471949480">
+      <screen x="1792" y="-20" width="1920" height="1057" />
+    </state>
+    <state x="2374" y="110" key="SettingsEditor/0.23.1792.1023/1792.-20.1920.1057/-2560.23.2560.1417@1792.-20.1920.1057" timestamp="1601471949480" />
+  </component>
+</project>

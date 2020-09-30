@@ -5,4 +5,3 @@ for i in range(1000):
         total += i
 
 print(total)
-# This is a github test
