@@ -5,7 +5,7 @@ from math import sqrt
 def largestPrime(n):
     i = 2
     # Only need to check up to the square root of the number we are checking, as with the isPrime function.
-    while i < sqrt(n):
+    while i <= sqrt(n):
         if n % i != 0:
             i += 1
         else:
@@ -13,5 +13,9 @@ def largestPrime(n):
     print(int(n))
 
 
+largestPrime(9)
+largestPrime(25)
+largestPrime(13195)
 largestPrime(600851475143)
+
 
