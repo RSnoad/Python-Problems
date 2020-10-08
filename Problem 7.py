@@ -21,5 +21,5 @@ def isPrime(n):
             return False
     return True
 
-
+nthPrime(6)
 nthPrime(10001)

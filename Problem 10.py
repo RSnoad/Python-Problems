@@ -22,5 +22,5 @@ def isPrime(n):
             return False
     return True
 
-
+sumPrime(10)
 sumPrime(2000000)

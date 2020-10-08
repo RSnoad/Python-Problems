@@ -7,9 +7,11 @@ def FSequence(n):
 
 
 # 33rd entry in sequence is the last number < 4 million. (Magic numbers, hard coded etc etc)
+# Could probably use while loop and break to find last number < 4m.
 total = 0
 for i in range(34):
     if FSequence(i) % 2 == 0:
         total += FSequence(i)
 
 print(total)
+
