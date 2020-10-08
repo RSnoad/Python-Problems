@@ -1,4 +1,4 @@
-# Find the first ten digits of the sum of the following 150 digit number.
+# Find the first ten digits of the sum of the following 50 digit numbers.
 
 
 number ='''37107287533902102798797998220837590246510135740250
